@@ -24,7 +24,9 @@ This exercise reinforces core concepts in loops, condition checking, and functio
 Please enter Positive Number to check Perfect Number: 30
 
 **Output:**
+
 6
+
 28
 
 
